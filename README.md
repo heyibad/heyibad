@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hello, I'm Muhammad Ibad 👋
+I'm a Full Stack Developer/Engineer with specialized in Backend and a Generative Ai Enthusiast 🚀. With a passion for building scalable and efficient web solutions, I specialize in integrating cutting-edge technologies and AI into enterprise-level applications. 🦸‍♂️
 
-<!--
-**heyibad/heyibad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✨ Passionate Learner & Explorer 🧑‍🔬🧠 
+- 🔍 Continuously Expanding My Knowledge and Skills 📚
+- 🤖 Driven to Tackle New Challenges and Innovate 🧭
 
-Here are some ideas to get you started:
+# 🌐 Connect with Me
+- LinkedIn: Muhammad Ibad Ansari | @heyibad
+- GitHub: heyibad
+- Twitter/X : @heyibad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💼 Professional Summary
+A seasoned Full Stack Developer/Engineer with a proven experience in developing applications. I bring a wealth of experience in developing innovative application with the integration of Artificial Intelligence, delivering high-quality, scalable, and efficient software solutions. I'm passionate about tech-exploring, problem-solving, startup and business.
+
+# What Currently Doing & Learning? 🤔
+- Doing Diploma in Generative Ai And Cloud Engineering 🤖
+- Learning about building Creating, Innovative and Scalable Web Apps. 
+- Learning Artificial Intelligence and Cloud Technologies.
+
+# 🛠 Technical Skills
+- Languages: TypeScript, JavaScript, Python
+- Frameworks: NextJS, Express
+- Libraries: React, ShadCn, Pandas, NumPy
+- Database:MongoDB
+- Other: HTML, CSS, Mongoose, Redux etc 📈 
+
+# 📫 How to Reach Me
+Feel free to reach out for collaborations or just a chat❤️
+
+# 📧 Email: ibad3572@gmail.com
+I'm always looking to grow and learn new things. Let's connect and build something amazing together!
