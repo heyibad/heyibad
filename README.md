@@ -1,4 +1,4 @@
-# Hello, I'm Muhammad Ibad 👋
+# Hello, I'm Muhammad Ibad Ansari 👋
 I'm a Full Stack Developer/Engineer with specialized in Backend and a Generative Ai Enthusiast 🚀. With a passion for building scalable and efficient web solutions, I specialize in integrating cutting-edge technologies and AI into enterprise-level applications. 🦸‍♂️
 
 - ✨ Passionate Learner & Explorer 🧑‍🔬🧠 
