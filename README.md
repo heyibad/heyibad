@@ -13,7 +13,7 @@ I'm a Full Stack Developer/Engineer with specialized in Backend and a Generative
 # 💼 Professional Summary
 A seasoned Full Stack Developer/Engineer with a proven experience in developing applications. I bring a wealth of experience in developing innovative application with the integration of Artificial Intelligence, delivering high-quality, scalable, and efficient software solutions. I'm passionate about tech-exploring, problem-solving, startup and business.
 
-# What Currently Doing & Learning? 🤔
+# What i am Currently Doing & Learning? 🤔
 - Doing Diploma in Generative Ai And Cloud Engineering 🤖
 - Learning about building Creating, Innovative and Scalable Web Apps. 
 - Learning Artificial Intelligence and Cloud Technologies.
