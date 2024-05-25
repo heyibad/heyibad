@@ -28,5 +28,6 @@ A seasoned Full Stack Developer/Engineer with a proven experience in developing 
 # 📫 How to Reach Me
 Feel free to reach out for collaborations or just a chat❤️
 
-# 📧 Email: ibad3572@gmail.com
+# 📧 Email: 
+- ibad3572@gmail.com
 I'm always looking to grow and learn new things. Let's connect and build something amazing together!
