@@ -22,8 +22,8 @@ A seasoned Full Stack Developer/Engineer with a proven experience in developing 
 - Languages: TypeScript, JavaScript, Python
 - Frameworks: NextJS, Express
 - Libraries: React, ShadCn, Pandas, NumPy
-- Database:MongoDB
-- Other: HTML, CSS, Mongoose, Redux etc 📈 
+- Database: MongoDB
+- Other: Mongoose, Redux etc 📈 
 
 # 📫 How to Reach Me
 Feel free to reach out for collaborations or just a chat❤️
