@@ -1,5 +1,5 @@
 # Hello, I'm Muhammad Ibad Ansari 👋
-I'm a Full Stack Developer/Engineer with specialized in Backend and a Generative Ai Enthusiast 🚀. With a passion for building scalable and efficient web solutions, I specialize in integrating cutting-edge technologies and AI into enterprise-level applications. 🦸‍♂️
+I'm a Full Stack Developer/Engineer with specialized in Agentic Ai 🚀. With a passion for building scalable and efficient web solutions, I specialize in integrating cutting-edge technologies and AI into enterprise-level applications. 🦸‍♂️
 
 - ✨ Passionate Learner & Explorer 🧑‍🔬🧠 
 - 🔍 Continuously Expanding My Knowledge and Skills 📚
@@ -16,14 +16,15 @@ A seasoned Full Stack Developer/Engineer with a proven experience in developing 
 # What i am Currently Doing & Learning? 🤔
 - Doing Diploma in Generative Ai And Cloud Engineering 🤖
 - Learning about building Creating, Innovative and Scalable Web Apps. 
-- Learning Artificial Intelligence and Cloud Technologies.
+- Learning Artificial Intelligence and Cloud Technologies
+- BS in Data Science
 
 # 🛠 Technical Skills
 - Languages: TypeScript, JavaScript, Python
-- Frameworks: NextJS, Express
-- Libraries: React, ShadCn, Pandas, NumPy
-- Database: MongoDB
-- Other: Mongoose, Redux etc 📈 
+- Frameworks: NextJS, CrewAi, LangChain 
+- Libraries: React, ShadCn, Pandas, NumPy etc
+- Database: MongoDB, Postgres etc
+- Other: Mongoose, Drizzle, Redux etc 📈 
 
 # 📫 How to Reach Me
 Feel free to reach out for collaborations or just a chat❤️
