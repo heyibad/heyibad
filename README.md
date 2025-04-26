@@ -21,10 +21,10 @@ A seasoned Full Stack Developer/Engineer with a proven experience in developing 
 
 # 🛠 Technical Skills
 - Languages: TypeScript, JavaScript, Python
-- Frameworks: NextJS, CrewAi, LangChain 
+- Frameworks: OpenAi Agents SDK, NextJS, CrewAi, FastAPI 
 - Libraries: React, ShadCn, Pandas, NumPy etc
 - Database: MongoDB, Postgres etc
-- Other: Mongoose, Drizzle, Redux etc 📈 
+- Other: UV, Git, Github, Docker etc 📈 
 
 # 📫 How to Reach Me
 Feel free to reach out for collaborations or just a chat❤️
